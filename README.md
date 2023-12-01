@@ -23,3 +23,51 @@ Installation
 1.Install required dependencies
 2.Go in API Folder
 3.Type flask run 
+
+Result
+
+QUERY INPUT: suggest me one product for bathing
+OUTPUT: Deodorant Soap 
+PREDICTION SCORE 0.0006341218249872327
+
+Referred Product: Lime Soap 100 gm Buy 4 Get 1 Free + Deodorant Soap- Cool 100 gm Buy 4 Get 1 Free
+
+
+
+QUERY INPUT: what is price of chia seeds
+OUTPUT: 145.25 
+PREDICTION SCORE 0.5620284080505371
+
+Referred Product: Chia Seeds
+
+
+
+QUERY INPUT: what is most loved hair product
+OUTPUT: thick, curly or frizzy hair 
+PREDICTION SCORE 0.13841083645820618
+
+Referred Product: Hair Vital Bioactive Oil With Olive, Castor, Almond, Jojoba, Rosemary, Tea Tree
+
+
+
+QUERY INPUT: suggest one  Anti- Bacterial Scrub Pad
+OUTPUT: Scotch brite 
+PREDICTION SCORE 0.11101531237363815
+
+Referred Product: Scrub Pad - Anti- Bacterial, Regular
+
+
+
+QUERY INPUT: price of Soan Papdi Special
+OUTPUT: 65.0 
+PREDICTION SCORE 0.6374332904815674
+
+Referred Product: Soan Papdi
+
+
+
+QUERY INPUT: what is most loved beauty product
+OUTPUT: Brightening Beauty Pack 
+PREDICTION SCORE 0.11473003774881363
+
+Referred Product: Brightening Beauty Pack
