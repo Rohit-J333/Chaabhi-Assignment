@@ -5,12 +5,12 @@ url = 'http://127.0.0.1:5000'
 ## to test api we can modify it
 
 queries = []
-queries.append("suggest me one product for cleaning vegetables")
-queries.append("what is the rating of product Vegetable & Fruit Wash with 100% Natural Action")
+queries.append("suggest me one product for bathing")
+queries.append("what is price of chia seeds")
+queries.append("what is most loved hair product")
+queries.append("suggest one  Anti- Bacterial Scrub Pad")
+queries.append("price of Soan Papdi Special")
 queries.append("what is most loved beauty product")
-queries.append("price of dove soap")
-queries.append("what is most loved beauty product")
-queries.append("suggest one Tea Product")
 
 
 
